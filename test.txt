@@ -1,0 +1,12 @@
+{
+  "course_name": "DBMS",
+  "duration": "12",
+  "department": "Programming"
+}
+
+{
+  "fullname": "John Doe",
+  "dob": "1990-01-01",
+  "gender": "Male",
+  "className": "Computer Science"
+}
